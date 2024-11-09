@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @SynthouS
-- 🌱 I’m currently learning Rust and C#
-- 📦 My main launguages is Python and C# 
-- ⚡ Fun fact: Im from Russia, but i'm don't like us government, i want to live in Finland.
+<p align="left">
+	<img src="https://github-readme-stats.vercel.app/api?username=SynthouS&show_icons=true&theme=omni&hide_border=true" height="195px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynthouS&layout=donut&theme=omni&langs_count=10&hide_border=true" height="195px"/>
+</p>
+
 - 📺 Also i have a [YouTube](https://www.youtube.com/@SynthouS)
 
 <!---
