@@ -5,7 +5,7 @@
 </p>
 
 - 📺 Also i have a [YouTube](https://www.youtube.com/@SynthouS)
-
+- <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/121px-Telegram_2019_Logo.svg.png" alt="YouTube"/> [@SynthouS1](https://t.me/SynthouS1)
 <!---
 SynthouS/SynthouS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
