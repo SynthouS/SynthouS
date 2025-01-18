@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @SynthouS
 <p align="left">
 	<img src="https://github-readme-stats.vercel.app/api?username=SynthouS&show_icons=true&theme=graywhite&hide_border=true" height="195px"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynthouS&layout=donut&theme=graywhite&langs_count=10&hide_border=true" height="195px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynthouS,en&layout=donut&theme=graywhite&langs_count=10&hide_border=true" height="195px"/>
 </p>
 
 # 🔗 Links
