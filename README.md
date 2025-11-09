@@ -13,9 +13,6 @@
 # 🎯 Skills
 [![My Skills](https://skillicons.dev/icons?i=rust,py,unity,lua)](https://skillicons.dev)
 (unity in past)
-
-# 📝 Wanna Learn
-[![My Skills](https://skillicons.dev/icons?i=ts,haxe)](https://skillicons.dev)
 <!---
 SynthouS/SynthouS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
