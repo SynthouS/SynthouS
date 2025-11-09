@@ -11,7 +11,11 @@
 - <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" alt="Telegram"/> [@SynthouS1](https://t.me/SynthouS1)
 
 # 🎯 Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,rust,py,unity,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,py,unity,lua)](https://skillicons.dev)
+(unity in past)
+
+# 📝 Wanna Learn
+[![My Skills](https://skillicons.dev/icons?i=fs,zig)](https://skillicons.dev)
 <!---
 SynthouS/SynthouS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
