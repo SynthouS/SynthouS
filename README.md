@@ -15,7 +15,7 @@
 (unity in past)
 
 # 📝 Wanna Learn
-[![My Skills](https://skillicons.dev/icons?i=fs,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,ts)](https://skillicons.dev)
 <!---
 SynthouS/SynthouS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
