@@ -16,3 +16,6 @@
 <!---
 SynthouS/SynthouS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+
+# 🗒️ Learning
+[![My Skills](https://skillicons.dev/icons?i=zig)](https://skillicons.dev)
